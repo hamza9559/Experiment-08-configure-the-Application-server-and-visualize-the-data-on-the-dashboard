@@ -38,21 +38,15 @@ As the application server market matures, high performance becomes a stronger cr
 1.DEVICE CONNECTED
 <img width="1920" height="1080" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/f6ae543e-83f1-496d-bd3e-61b978a1e0d0" />
 
-<img width="1920" height="1080" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/775cf35b-3c2e-48d7-8128-9ad8ed2f2b07" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-27 133213" src="https://github.com/user-attachments/assets/70dba53a-bc6c-41d8-9a47-f1a8585ab40f" />
 
-2.DASHBOARD
- <img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/dec352f9-28c5-4271-975b-9d100683c3c2" />
+
 
 3.GATEWAY CONNECTED:
-<img width="1920" height="1080" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/10a5721e-54fd-4e80-983c-16cf8a8be83b" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-27 113234" src="https://github.com/user-attachments/assets/55bef3f6-2df1-4196-94b5-42268fa94cae" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-27 114006" src="https://github.com/user-attachments/assets/bcdd7e9c-777f-4abc-837c-a293f44b8d18" />
 
-<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/520ab027-1fa2-42f0-b624-04cc5988ebe5" />
-
-<img width="1920" height="1080" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/7616b329-9ad0-498d-b5a7-53b11cf6114b" />
-
-<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/824531af-3685-4a52-a325-ebe1e33b1500" />
-
-<img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/721efa97-ae53-41a4-8282-98aaf373b983" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-27 114110" src="https://github.com/user-attachments/assets/0680900b-b064-4a8c-8364-5baf4158e3a7" />
 
 ## Result: 
 
